@@ -3,3 +3,12 @@ test test test
 cd - change directory (move between folders)
 git clone URL - clone linked github repo to dir (folder) you are in
 mkdir - make directory (create new folder)
+dir - list of all files and directories in current location
+git status - see status of files
+			Untracked files section in red
+git add <file_name> - adds file to be watched
+git add . - add ALL (only needs to be done once to tell it to watch these files)
+git commit -m "enter message for commit here" - creates commit, and assigns a message
+git push - push to github
+
+TEST COMMIT
