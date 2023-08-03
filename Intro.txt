@@ -1,0 +1,5 @@
+test test test
+
+cd - change directory (move between folders)
+git clone URL - clone linked github repo to dir (folder) you are in
+mkdir - make directory (create new folder)
