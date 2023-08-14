@@ -1,9 +1,9 @@
-#GIT Tips
+# GIT Tips
 *the tips and tricks that helped me learn how to use git and github!*
 
 [Youtube Video that helped me step by step to start committing](https://youtu.be/AW_U0q5BtFI)
 
-##Command Prompt Terminal Commands
+## Command Prompt Terminal Commands
 -cd - change directory (move between folders)
 -mkdir - make directory (create new folder)
 -dir - list of all files and directories in current location
@@ -13,7 +13,7 @@
 -del - delete directory or file (-y)
 -cls - clear screen
 
-###Git-Specific
+### Git-Specific
 -git clone URL - clone linked github repo to dir (folder) you are in
 -git status - see status of files (Untracked files section in red)
 -git add <file_name> - adds file to be watched
@@ -21,7 +21,8 @@
 -git commit -m "enter message for commit here" - creates commit, and assigns a message
 -git push - push to github
 ---
-##GitBash Commands
+## GitBash Commands
+
 -cd
 -mkdir
 -ls - equiv of dir (list)
